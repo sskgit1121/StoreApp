@@ -15,5 +15,12 @@ More about Project:
 
 6.Dark mode feature
 
-Fronend Technology:React,
+A MERN stack based project:
+Using Fronend Technology:React,and
 Backend Technology:Express+Mongodb
+
+why MERN stack? 
+MERN is great for cloud-based SaaS,and real-time apps. Asynchronous & Non-blocking Architecture → Node.js is event-driven and uses non-blocking I/O, making it efficient for real-time updates.
+
+MERN for Enterprise Real-Time Apps:
+fast, interactive, real-time updates (stock trading, chat apps, dashboards) 
