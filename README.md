@@ -4,10 +4,16 @@
 
 More about Project:
 1.The hard coded data comes from database
+
 2.The Landing Page contain free category books only
+
 3.The Route is protected using localstorage:Once the user register/Login can only access the categorized books
-4.The password is protected using hashing
-5.Dark mode feature
+
+4.After successful login you will get Logout button after 3 second
+
+5.The password is protected using hashing
+
+6.Dark mode feature
 
 Fronend Technology:React,
 Backend Technology:Express+Mongodb
