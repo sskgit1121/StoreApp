@@ -2,6 +2,21 @@
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+REQUIREMENTS to run the website:
+Hardware and Software requirements for WINDOWS and Mac OS:
+Processor: Intel Core i3 or AMD Ryzen 3 (minimum), Intel Core i5 or AMD Ryzen 5 (recommended)
+RAM: 8GB minimum
+Storage: SSD preferred for faster loading times
+Browser: Latest versions of Chrome, Firefox, Edge, or Safari
+Operating System: Windows 10 or macOS (latest versions)
+-
+For ANDROID:
+Operating System: Android 7.0 (Nougat) or newer
+RAM: 2GB minimum, 3GB recommended
+Browser: Google Chrome (latest version) 
+--------------------------------
+
+
 More about Project:
 1.The hard coded data comes from database
 
